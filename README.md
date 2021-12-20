@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Yar83Men
-- 👀 I’m interested in Python, JavaScript
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m Yaroslaw Menda
+- 👀 I’m interested in Java, Java Spring, Python, JavaScript
+- 🌱 I’m currently learning and practice and working...
 
 
 <!---
