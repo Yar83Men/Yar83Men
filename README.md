@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yaroslaw Menda
+- 👋 Hi, I’m Yaroslav Menda (Ярослав Менда)
 - 👀 I’m interested in Java, Spring framework, Python, Lua, Kotlin
 - 🌱 I’m currently working as Java developer, Tech-Lead
 
